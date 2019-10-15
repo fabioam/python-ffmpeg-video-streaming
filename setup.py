@@ -14,7 +14,6 @@ setuptools.setup(
     url="https://github.com/aminyazdanpanah/python-ffmpeg-video-streaming",
     packages=setuptools.find_packages(),
     include_package_data=True,
-    install_requires=requires,
     classifiers=[
         "Programming Language :: Python :: 3.6",
         "Programming Language :: Python :: 3.7",
